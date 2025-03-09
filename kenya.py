@@ -1,1 +1,1 @@
-print ("Hello Kenya")
+print ("Leo ni kumoto")
